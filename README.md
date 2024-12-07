@@ -91,4 +91,4 @@ GOT Swiper is an interactive web project inspired by Game of Thrones, showcasing
 
 ## Live Preview
 
-Click me
+Click me https://danyelasuzy.github.io/GameOfThrones-swiper/
